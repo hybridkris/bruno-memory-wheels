@@ -1,6 +1,6 @@
 # Bruno Memory Wheels
 
-**[Open the simulator](https://hybridkris.github.io/bruno-memory-wheels/)**
+**[Open the simulator](https://krisrockwell.io/bruno-memory-wheels/)**
 
 Giordano Bruno's five memory wheels from *De umbris idearum* (Paris, 1582) as an interactive 3D instrument: five card
 discs of 150 two-letter cells each, outermost the agents, then actions, insignia, adstantia and circumstantiae
